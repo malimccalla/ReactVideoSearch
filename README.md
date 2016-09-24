@@ -1,8 +1,6 @@
 # ReactVideoSearch
 
-This is my first ever React project.
-
-I built a simple app that uses the youtube API to search and display videos.
+For my first even React project I built a simple app that uses the youtube API to search and display videos.
 
 ###Getting Started###
 
